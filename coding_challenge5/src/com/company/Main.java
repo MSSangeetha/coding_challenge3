@@ -17,6 +17,7 @@ public class Main {
 
         for (int i = 1 ;i <= cumulativeNumber ;i++){
 //            result = result + (result-1);
+//            result = result + i;
             result = result + i;
 //            System.out.println("The final result is " + cumulativeNumber);
                  }
